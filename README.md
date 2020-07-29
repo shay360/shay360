@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Shay Zeevi.
+I am a a web developer works with php and javascript.
 
 <!--
 **shay360/shay360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
