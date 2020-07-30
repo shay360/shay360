@@ -14,6 +14,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-2c00e0?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/Electron-73cece?style=flat-square&logo=electron&logoColor=white" />
 </p>
 
 
