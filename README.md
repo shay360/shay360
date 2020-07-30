@@ -2,7 +2,7 @@
 
 #### I'm a Full-Stack Developer working in Haifa, Israel.
 
-- 🏢 I'm currently working at **Neto Tech**
+- 🏢 I'm currently working at **Home Plus**
 - ⚙️ I use daily: `php`, `nodejs`, `es`
 
 <p>
