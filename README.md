@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 #### I'm a Full-Stack Developer working in Haifa, Israel.
-
-- 🏢 I'm currently working at **Home Plus**
-- ⚙️ I use daily: `php`, `nodejs`, `es`
-
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
